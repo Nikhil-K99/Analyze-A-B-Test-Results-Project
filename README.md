@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project analyzes simulated A/B test results by Udacity. This data is from an A/B test run by an e-commerce website,which developed a new web page to increse the number of users who "convert". "Conversions" refer to the users deciding to pay for the companies product. Analysis of the results will be used to determine the impact of the new page on the number of conversions and whether this new web page should be implemented or not. Statistical methods will be key in analyzing the results of the experiment.
+This project analyzes simulated A/B test results by Udacity. This data is from an A/B test run by an e-commerce website, which developed a new web page to increase the number of users who "convert". "Conversions" refer to the users deciding to pay for the companies product. Analysis of the results will be used to determine the impact of the new page on the number of conversions and whether this new web page should be implemented or not. Statistical methods will be key in analyzing the results of the experiment.
 
 ## Required Libraries
 
